@@ -1,0 +1,27 @@
+Teste 1: Aceleração com marcha e consumo de combustível
+Crie um veículo (exemplo: carro, moto, etc.).
+Suba para a 2ª marcha.
+Acelere algumas vezes e observe:
+A velocidade deve aumentar proporcionalmente à marcha.
+O combustível deve diminuir.
+
+
+Teste 2: Reduzir marcha e acelerar
+Suba para a 3ª marcha.
+Acelere até 30 km/h.
+Reduza para a 2ª marcha e acelere novamente.
+Observe como a velocidade e o consumo de combustível se comportam.
+
+Teste 3: Frear completamente
+Acelere o veículo até uma velocidade alta (50 km/h).
+Freie gradativamente até 0 km/h.
+Observe o histórico de operações para garantir que cada passo foi registrado.
+
+Teste 4: Combustível baixo e comportamento ao acelerar
+Acelere repetidamente até que o combustível acabe.
+Tente acelerar com o combustível zerado.
+Observe os avisos de combustível baixo e a mensagem ao tentar acelerar sem combustível.
+
+Teste 5: Imprimir dados do veículo
+Após realizar várias operações (acelerar, frear, trocar marchas), imprima os dados do veículo.
+Confirme as informações exibidas, como marca, modelo, potência, velocidade atual, combustível restante, e histórico.
